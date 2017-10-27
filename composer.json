@@ -7,6 +7,5 @@
         }
     ],
     "require": {
-	"psr-4": {"muxiaoqi\\test\\": "src"}
     }
 }
