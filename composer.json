@@ -1,0 +1,12 @@
+{
+    "name": "muxiaoqi/test",
+    "authors": [
+        {
+            "name": "muxiaoqi",
+            "email": "171084131@qq.com"
+        }
+    ],
+    "require": {
+	"psr-4": {"muxiaoqi\\test\\": "src"}
+    }
+}
